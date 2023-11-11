@@ -6,7 +6,10 @@
 --skills   - varchar(255)
 
 --Part 2
-
+--SQL TASK - Query for listing St. Louis City Employers
+SELECT name
+FROM employer
+WHERE location = "St. Louis City";
 --Part 3
 
 --Part 4
