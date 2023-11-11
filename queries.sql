@@ -11,5 +11,6 @@ SELECT name
 FROM employer
 WHERE location = "St. Louis City";
 --Part 3
-
+--SQL TASK - Statement to remove job table
+DROP TABLE job;
 --Part 4
